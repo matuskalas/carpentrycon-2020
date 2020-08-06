@@ -8,11 +8,16 @@ class: center, middle, inverse
 
 ## Introduction to the session
 
-[NT drafts this, 5-10 minutes]
-
-- brief intro to the section
-- how hackmd works - use hackmd for continuous questions
-- contents
+- Carpentries Code of Conduct
+- House keeping 
+ - Questions about the contents -> HackMD
+ - Questions about technical stuff -> Zoom Chat
+- Contents
+ - What is CodeRefinery?
+ - A vision of reaching many people at once (with BR session)
+ - How we did it
+ - Role presentation
+ - Open discussion
 
 ---
 
@@ -108,17 +113,20 @@ class: center, middle, inverse
 
 ## Collaborative notes
 
-[NT drafts this, 2 minutes]
+- Use of HackMD for collection of Q&A regarding lesson contents
+<ul style="list-style-type:' \002B \0020 \0020'">
+  <li> It keeps record of Q&A so that it is possible to review afterwards.</li>
+  <li> Main flow is not disrupted.</li>
+  <li> Stable most of the time with 50-100 users (depending on the edit history length).</li>
+</ul>
 
-- we get even more questions now
+- For short communications for more practical questions, we used Zoom chat function.
 
 ---
 
 ## Distribution of roles
 
-[NT drafts this, 2 minutes]
-
-- ...
+(will use an illustrative figure here)
 
 ---
 
@@ -134,7 +142,7 @@ class: center, middle, inverse
 
 # Role presentations
 
-[NT will moderate this session, 20 minutes]
+<!--NT will moderate this session, 20 minutes　-->
 
 <!-- - They should: say what the role is, why the role is important, say what -->
 <!--   you thought, what went well, what should be improved.  Please also check -->
@@ -187,9 +195,23 @@ class: center, middle, inverse
 
 ## Host
 
-[NT drafts this, 2 minutes]
-
-- ...
+Host is dedicated for Zoom room management.
+- Zoom-participant controll
+  - Assigning co-host priviledge to instructors and expert helpers.
+  - Permission of participants' entrance into the meeting room by referring to the registration list.
+  <ul style="list-style-type:' \0021 \0020 \0020'">  
+    <li> Join in early </li>
+    <li> Present registered name </li>
+    <li> Rename to (team number / team number, H / CR)[first, last name] </li>
+  </ul>  
+- Communication with participants (mainly via Zoom chat for practical things)
+- Assigning participants to breakout rooms
+<ul style="list-style-type:' \0021 \0020 \0020'">  
+  <li> If a helper of a team is absent, 2 (or 3 ) teams are merged into 1 room </li>
+  <li> Keep consistency with team combination as much as possible throughout the workshop </li>
+  <li> Make sure to stop video before returning to the main room </li>
+  <li> Disable waiting room during the breakout room session </li>
+</ul>  
 
 ---
 
