@@ -155,9 +155,14 @@ class: center, middle, inverse
 
 ## Learner
 
-[RD drafts this, RD asking JP, 2 minutes]
+- Backround
+- Expectation
+- Arrangements:  Pre-workshop, Materials, learning tools, support organization
+- Challenges
+- Overall feedback
+- Outcome
 
-- ...
+...
 
 ---
 
