@@ -41,14 +41,33 @@ class: center, middle, inverse
 
 [RD drafts this, 2+10+3 minutes]
 
-- What was a Mega-Workshop? and why?
-- Why you would want to - the promise of technology reaching everyone.
+- Our previous workshops weren't very large
+- The promise of technology is to be able to reach huge numbers of
+  people at once.  But is that too impersonal?
+- Surely we must be able to get the best of best worlds...
+
+![img/inspiration-1.png]
+
+- With a consistent vision, yes, you can reach many people.  But it
+  requires that vision from the start, and everything supporting that
+  value.
+
+
+### Question to the audience
+
+- How can large be more inclusive?  How is it less?
+- What technical obstacles does it have?
+
+10 minutes to discuss in breakout rooms, summarize here after.
+
+<!--
 - Why you need a vision (Mega-Coderefinery vs HPC kickstart)
 - You can get even *more* out of it
 - Question to audience via breakout room, answers in HackMD:
   - How can large be more inclusive?  How is it less?
   - What technical obstacles does it have?
 - Do we discuss results in main room?
+-->
 
 ---
 
