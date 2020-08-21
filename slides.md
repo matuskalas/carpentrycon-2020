@@ -134,7 +134,16 @@ class: center, middle, inverse
 
 [RD drafts this, 2 minutes]
 
-- ...
+- If we have 100 people, interaction shifts to breakout rooms.  Why
+  can't more watch the lecture?
+- Zoom meetings are *not* the right format for untrusted people to watch.
+- Streaming is the right format: listeners isolated from presenters,
+  no risk of damage.
+- Zoom can stream directly to Twitch (or other services) without any
+  other software needed.
+- We interacted with Twitch viewers via Twitch chat + hackmd.  It
+  worked fairly well.
+
 
 ---
 
