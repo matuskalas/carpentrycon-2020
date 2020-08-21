@@ -174,11 +174,14 @@ class: center, middle, inverse
 
 - work of a helper
 
+- indexing where we are / what we are doing
+
 - preparation as a helper (recommended but most of the time (would have) worked also without)
 
-- how the exercises worked, alone, questions, sharing screen
+- how the exercises worked, alone (they mostly preferred to work alone first & then ask if needed), questions, sharing screen
 
 - what I got out of it (incl learning & fun)
+- more fun to go through the teaching material as a helper than just following it alone (and to experience the whole workshop in its interactivity)
 
 - if without an extra screen (recommended but not mandatory), i wouldn't have been able to follow hackMD, and chat also not so much - but would still work without those
 
