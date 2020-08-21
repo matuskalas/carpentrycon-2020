@@ -271,20 +271,22 @@ Host is dedicated for Zoom room management.
 
 ---
 
-## HackMD director
+## HackMD specialist
 
-[RD drafts this, 2 minutes]
+<!-- RD, 2 minutes -->
 
 - This role focuses on watching the HackMD and answering questions
   there.
-- This requires a different type of attention than paying attention to
-  lessons, so we have a dedicated role for this.
-- Everyone can help with answering questions, but at least one person
-  always dedicated to it.
-- This person also ensures consistent formatting and generally
-  prepares it for publication already during the workshop.
-- This person should also bring up important questions in the video
-  stream.
+  - This requires a different type of attention than paying attention to
+    lessons, so we have a dedicated role for this.
+  - Everyone can help with answering questions, but at least one person
+    always dedicated to it.
+- Typical tasks
+  - Answer questions
+  - Bring up important questions to the instructor
+  - Organize/comment on complicated answers
+  - Add links and "meta-information" about where we are.
+  - Ensures consistent formatting, prepares it for publication
 
 ---
 
