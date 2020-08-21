@@ -96,7 +96,14 @@ class: center, middle, inverse
 
 [RD drafts this, 2 minutes]
 
-- ...
+- With 100 people, there is very little tolerance for technical
+  problems.
+- Huge emphasis: install and *test* software before, said in every email.
+- Two pre-workshop "verification times", request that everyone attends
+  (if half do, it's good enough)
+- In the verification time, we would pair learners with helpers and
+  have them test git and Python (not just install, but settings).
+- Verification times also let us practice with the tech with helpers in advance.
 
 ---
 
