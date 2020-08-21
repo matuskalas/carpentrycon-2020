@@ -170,13 +170,19 @@ class: center, middle, inverse
 
 [MK drafts this, 2 minutes]
 
-- if you're asking you are :)
+- if you're asking you probably are :)
 
 - work of a helper
 
+- preparation as a helper (recommended but most of the time (would have) worked also without)
+
+- how the exercises worked, alone, questions, sharing screen
+
 - what I got out of it (incl learning & fun)
 
-- if without an extra screen, i wouldn't have been able to follow hackMD, and chat also not so much - but would still work without those
+- if without an extra screen (recommended but not mandatory), i wouldn't have been able to follow hackMD, and chat also not so much - but would still work without those
+
+- improvements: how to use screens (for learners), ...
 
 ---
 
