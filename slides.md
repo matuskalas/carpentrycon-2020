@@ -170,7 +170,13 @@ class: center, middle, inverse
 
 [MK drafts this, 2 minutes]
 
-- ...
+- if you're asking you are :)
+
+- work of a helper
+
+- what I got out of it (incl learning & fun)
+
+- if without an extra screen, i wouldn't have been able to follow hackMD, and chat also not so much - but would still work without those
 
 ---
 
