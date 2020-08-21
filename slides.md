@@ -42,7 +42,7 @@ class: center, middle, inverse
 <!-- RD -->
 
 
-!(The first idea... accept everyone, stream for everyone else)[img/inspiration-1.png]
+![The first idea... accept everyone, stream for everyone else](img/inspiration-1.png)
 
 ---
 
@@ -50,7 +50,7 @@ class: center, middle, inverse
 
 <!-- RD -->
 
-!(A bit later... crazy but genius)[img/inspiration-2.png]
+![A bit later... crazy but genius](img/inspiration-2.png)
 
 ---
 
@@ -58,14 +58,12 @@ class: center, middle, inverse
 
 <!-- RD drafts this, 2+10+3 minutes -->
 
-!(A bit later... crazy but genius)[img/inspiration-2.png]
+![A bit later... crazy but genius](img/inspiration-2.png)
 
 - Our previous workshops weren't very large
 - The promise of technology is to be able to reach huge numbers of
   people at once.  But is that too impersonal?
 - Surely we must be able to get the best of best worlds...
-
-
 - With a consistent vision, yes, you can reach many people.  But it
   requires that vision from the start, and everything supporting that
   value.
