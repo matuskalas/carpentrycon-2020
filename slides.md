@@ -41,14 +41,33 @@ class: center, middle, inverse
 
 [RD drafts this, 2+10+3 minutes]
 
-- What was a Mega-Workshop? and why?
-- Why you would want to - the promise of technology reaching everyone.
+- Our previous workshops weren't very large
+- The promise of technology is to be able to reach huge numbers of
+  people at once.  But is that too impersonal?
+- Surely we must be able to get the best of best worlds...
+
+![img/inspiration-1.png]
+
+- With a consistent vision, yes, you can reach many people.  But it
+  requires that vision from the start, and everything supporting that
+  value.
+
+
+### Question to the audience
+
+- How can large be more inclusive?  How is it less?
+- What technical obstacles does it have?
+
+10 minutes to discuss in breakout rooms, summarize here after.
+
+<!--
 - Why you need a vision (Mega-Coderefinery vs HPC kickstart)
 - You can get even *more* out of it
 - Question to audience via breakout room, answers in HackMD:
   - How can large be more inclusive?  How is it less?
   - What technical obstacles does it have?
 - Do we discuss results in main room?
+-->
 
 ---
 
@@ -96,7 +115,14 @@ class: center, middle, inverse
 
 [RD drafts this, 2 minutes]
 
-- ...
+- With 100 people, there is very little tolerance for technical
+  problems.
+- Huge emphasis: install and *test* software before, said in every email.
+- Two pre-workshop "verification times", request that everyone attends
+  (if half do, it's good enough)
+- In the verification time, we would pair learners with helpers and
+  have them test git and Python (not just install, but settings).
+- Verification times also let us practice with the tech with helpers in advance.
 
 ---
 
@@ -134,7 +160,16 @@ class: center, middle, inverse
 
 [RD drafts this, 2 minutes]
 
-- ...
+- If we have 100 people, interaction shifts to breakout rooms.  Why
+  can't more watch the lecture?
+- Zoom meetings are *not* the right format for untrusted people to watch.
+- Streaming is the right format: listeners isolated from presenters,
+  no risk of damage.
+- Zoom can stream directly to Twitch (or other services) without any
+  other software needed.
+- We interacted with Twitch viewers via Twitch chat + hackmd.  It
+  worked fairly well.
+
 
 ---
 
