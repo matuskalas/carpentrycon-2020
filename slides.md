@@ -91,18 +91,22 @@ class: center, middle, inverse
 
 # How we did it
 
-**A team work**: every role is equally important and require effective collaborations
 
-- Lectures & code-along exercises in the main room
-- Get help and group exercises in a breakout room
-- Bring your own breakout room
+### Lectures & code-along exercises in the main room
+
+### Get help and group exercises in a breakout room
+
+### Bring your own breakout room
+
+## An effective team work!
 
 ---
 
 ## Lectures & code-along exercises in the main room
 
-- Explain a concept
+- Short lectures to explain a concept and "asynchronous Q&A" in main room
 - Demonstrate it on a very short example (and often repeat explanation)
+- Exercises more in the breakout rooms among groups
 - Check understanding:
 	- surveys with simple (yes/no) questions
 	- check speed with faster/slower buttons
@@ -111,8 +115,8 @@ class: center, middle, inverse
 - Sometimes make a code-along exercise and always repeat similar exercise in breakout rooms
 
 
---> Move on when about 70% have answered so delegate potential misunderstanding to helpers during group exercises.
- 
+*Move on when about 70% have answered so delegate potential misunderstanding to helpers during group exercises.
+* 
 ---
 
 ## Get help and group exercises in a breakout room
@@ -124,8 +128,8 @@ class: center, middle, inverse
 	- helpers played a key role to animate the group 
 	- encouraged one learner to share his/her screen during the exercise
 
---> first day was a bit quiet, especially if learners do not know each others.
-
+*First day was a bit quiet, especially in groups where learners did not know each others.
+*
 ---
 
 ## Bring your own breakout room
@@ -137,11 +141,8 @@ class: center, middle, inverse
 
 - The designated helper was very often someone who already attended a CodeRefinery in-person workshop or someone in charge of technical support for the team
 
---> This is how we effectively scaled...
+*This is how we effectively scaled...*
 
----
-
-## Get help and group exercises in a breakout room
 ---
 
 ## Helper training
@@ -172,17 +173,6 @@ class: center, middle, inverse
 - In the verification time, we would pair learners with helpers and
   have them test git and Python (not just install, but settings).
 - Verification times also let us practice with the tech with helpers in advance.
-
----
-
-## "lecture and exercises"
-
-[not sure this is the right name, it's not quite "filpped classroom", what is it?]
-
-[AF drafts this, 2 minutes]
-
-- short lectures and "asynchronous Q&A" in main room
-- exercises more in the breakout rooms among groups
 
 ---
 
@@ -276,9 +266,17 @@ class: center, middle, inverse
 
 ## Instructor
 
-[AF drafts this, 2 minutes]
+### Who am I?
 
-- ...
+<img src="img/mega-cr-instructor.png" width="60%" />
+
+### How was it to teach Mega-CR online?
+
+- Taught from home with one screen (laptop)
+- Less pressure and easier to focus on the teaching thanks to CR team work (host, helpers, hackMD, etc.)
+- Need to have short assessments (surveys, questionnaires, etc.) frequently
+- Code-along sessions were sometimes too fast for many learners and often became demos
+- Useful to be instructor and expert helper during the workshop
 
 ---
 
