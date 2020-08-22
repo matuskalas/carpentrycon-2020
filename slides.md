@@ -91,24 +91,57 @@ class: center, middle, inverse
 
 # How we did it
 
-[AF will moderate this session, 20 minutes]
+**A team work**: every role is equally important and require effective collaborations
+
+- Lectures & code-along exercises in the main room
+- Get help and group exercises in a breakout room
+- Bring your own breakout room
+
+---
+
+## Lectures & code-along exercises in the main room
+
+- Explain a concept
+- Demonstrate it on a very short example (and often repeat explanation)
+- Check understanding:
+	- surveys with simple (yes/no) questions
+	- check speed with faster/slower buttons
+	- ask a question and learners write down answers in hackMD
+	- ask learners to contribute to discussion via hackMD
+- Sometimes make a code-along exercise and always repeat similar exercise in breakout rooms
+
+
+--> Move on when about 70% have answered so delegate potential misunderstanding to helpers during group exercises.
+ 
+---
+
+## Get help and group exercises in a breakout room
+
+- Apply concepts previously taught to check understanding
+- Helpers often "taught" again to clarify concept 
+- pre-defined and fixed breakout rooms with 3 to 10 people in each: 
+	- larger groups were allowed when learners registered together
+	- helpers played a key role to animate the group 
+	- encouraged one learner to share his/her screen during the exercise
+
+--> first day was a bit quiet, especially if learners do not know each others.
 
 ---
 
 ## Bring your own breakout room
 
-[AF drafts this, 2 minutes]
+- Learners could register as a team (3-10 persons) with a designated helper:
+	- Registration form included a “team name”
+	- Personalized emails with room numbers
+	- Zoom name = “(5) Richard Darst” or “(5,H) Richard Darst”
 
-- ...
+- The designated helper was very often someone who already attended a CodeRefinery in-person workshop or someone in charge of technical support for the team
+
+--> This is how we effectively scaled...
 
 ---
 
-## Teams can register as teams
-
-[AF drafts this, 2 minutes]
-
-- ...
-
+## Get help and group exercises in a breakout room
 ---
 
 ## Helper training
