@@ -9,7 +9,7 @@ class: center, middle, inverse
 ## Introduction to the session
 
 - Carpentries Code of Conduct
-- House keeping 
+- House keeping
  - Questions about the contents -> HackMD
  - Questions about technical stuff -> Zoom Chat
 - Contents
@@ -116,16 +116,16 @@ class: center, middle, inverse
 
 
 *Move on when about 70% have answered so delegate potential misunderstanding to helpers during group exercises.
-* 
+*
 ---
 
 ## Get help and group exercises in a breakout room
 
 - Apply concepts previously taught to check understanding
-- Helpers often "taught" again to clarify concept 
-- pre-defined and fixed breakout rooms with 3 to 10 people in each: 
+- Helpers often "taught" again to clarify concept
+- pre-defined and fixed breakout rooms with 3 to 10 people in each:
 	- larger groups were allowed when learners registered together
-	- helpers played a key role to animate the group 
+	- helpers played a key role to animate the group
 	- encouraged one learner to share his/her screen during the exercise
 
 *First day was a bit quiet, especially in groups where learners did not know each others.
@@ -255,7 +255,7 @@ class: center, middle, inverse
 &nbsp;
 
 - **helper in team** from Finnish Geospatial Research Institute
-- myself: in-person workshop **learner one year ago** 
+- myself: in-person workshop **learner one year ago**
 - **lower barrier** to interact/ask questions
 - explaining topics **work-related**
 - **easy to get lost** in course-unrelated topics
@@ -293,19 +293,19 @@ Host is dedicated for Zoom room management.
 - Zoom-participant controll
   - Assigning co-host priviledge to instructors and expert helpers.
   - Permission of participants' entrance into the meeting room by referring to the registration list.
-  <ul style="list-style-type:' \0021 \0020 \0020'">  
+  <ul style="list-style-type:' \0021 \0020 \0020'">
     <li> Join in early </li>
     <li> Present registered name </li>
     <li> Rename to (team number / team number, H / CR)[first, last name] </li>
-  </ul>  
+  </ul>
 - Communication with participants (mainly via Zoom chat for practical things)
 - Assigning participants to breakout rooms
-<ul style="list-style-type:' \0021 \0020 \0020'">  
+<ul style="list-style-type:' \0021 \0020 \0020'">
   <li> If a helper of a team is absent, 2 (or 3 ) teams are merged into 1 room </li>
   <li> Keep consistency with team combination as much as possible throughout the workshop </li>
   <li> Make sure to stop video before returning to the main room </li>
   <li> Disable waiting room during the breakout room session </li>
-</ul>  
+</ul>
 
 ---
 
