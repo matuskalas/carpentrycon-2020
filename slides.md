@@ -362,14 +362,16 @@ class: center, middle, inverse
 
 ## Future outlook and Q&A session
 
-[RB drafts this, 5-10 minutes]
-
 ---
 
-<!-- 1-2 slides but q&a and "discussion" via hackmd -->
+## Future outlook and Q&A session
 
-- Continue with online workshops even later - this is not "replacement to
-  in-person" but much better in some ways
-- Does this work in all audience types? Diversity, tech background.
+<!-- RB, 10 minutes, q&a and "discussion" via hackmd -->
+
+- Continue with online workshops - this is not replacement to
+  in-person workshops but better in some ways
+- Do larger online-workshops and streaming work for all audience types?
+  (diversity, tech background, network bandwidth)
 - Encourage and accept lurkers more (better experience when streaming).
+- How to encourage participation and protect privacy while streaming/recording?
 - How can we make a federated model via the stream? We don't know yet.
