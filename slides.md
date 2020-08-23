@@ -179,17 +179,23 @@ class: center, middle, inverse
 
 ## Helper training
 
-[RB drafts this, 2 minutes]
+<!-- RB, 2 minutes -->
 
-- ...
+One week before the workshop:
+- Discuss [Tips for helpers](https://coderefinery.github.io/manuals/helping-and-teaching/)
+  and [How helpers manage breakout rooms](https://coderefinery.github.io/manuals/breakout-rooms-helping/)
+- Course schedule walk-through with instructors and organizers
+- Exercise/breakout-room walk-through (**we need to do this better next time**)
 
----
 
-## Hierarchical helpers
+### Hierarchical helpers
 
-[RB drafts this, 2 minutes]
-
-- ...
+- Helpers
+  - They don't have to know "everything"
+  - They can call in other helpers
+- Expert helpers (more about this role later)
+  - They support helpers
+  - They cycle between breakout rooms
 
 ---
 
