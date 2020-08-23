@@ -41,14 +41,9 @@ class: center, middle, inverse
 
 <!-- RD -->
 
-
 ![The first idea... accept everyone, stream for everyone else](img/inspiration-1.png)
 
----
-
-## A vision of reaching many people at once
-
-<!-- RD -->
+--
 
 ![A bit later... crazy but genius](img/inspiration-2.png)
 
@@ -57,8 +52,6 @@ class: center, middle, inverse
 ## A vision of reaching many people at once
 
 <!-- RD drafts this, 2+10+3 minutes -->
-
-![A bit later... crazy but genius](img/inspiration-2.png)
 
 - Our previous workshops weren't very large
 - The promise of technology is to be able to reach huge numbers of
