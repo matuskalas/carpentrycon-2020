@@ -4,6 +4,8 @@ class: center, middle, inverse
 
 ### Naoe Tatara, Radovan Bast, Richard Darst, Anne Fouilloux, Petri Jehkonen, Matúš Kalaš, Samantha Wittke
 
+<!-- briefly introduce authors and say who is presenting -->
+
 ---
 
 ## Introduction to the session
