@@ -21,19 +21,57 @@ class: center, middle, inverse
 
 ---
 
-## What is CodeRefinery
+## CodeRefinery: project and funding
 
-[RB drafts this, 5 minutes]
+<!-- RB, 5 minutes, 3 slides -->
 
-- What is CodeRefinery?
-- How does it relate to Carpentries?
-- Lightning slide-deck (3 slides, link to web)
-- Audience: our audience is not mostly pure beginners
-- Ask Question via HackMD:
-  - Is there a need for more intermediate/advanced Carpentries-style
-    material for learners who have completed a basic Carpentries
-    training?
-  - What topics/courses are needed?
+(Radovan will add logo and/or map)
+
+- Funded 2016-2021 by [Nordic e-Infrastructure Collaboration (NeIC)](https://neic.no/)
+- Co-funding by Sigma2 (Norway), SNIC (Sweden), DeiC (Denmark), CSC (Finland), ETAIS (Estonia)
+- Important hubs: NTNU Trondheim, University of Oslo, KTH Stockholm, Aalto University
+- Trained over 700 learners [in over 30 workshops](https://coderefinery.org/workshops/past/)
+
+---
+
+## CodeRefinery: audience and lessons
+
+Our **learners are not pure beginners**, they already develop code but want to
+become better at **collaboration and reproducibility**
+
+
+### Typical workshop
+
+- Introduction to version control
+- Collaborative distributed version control
+- Reproducible research and FAIR data
+- Social coding and open software
+- Documentation
+- Jupyter
+- Automated testing
+- Modular code development
+
+
+### More lessons
+
+https://coderefinery.org/lessons/
+
+---
+
+## CodeRefinery: relation to Carpentries
+
+- Using Carpentries teaching style and format
+- Co-funding Carpentries coordinator Nordics/Baltics
+- Lessons are not yet in the Carpentries incubator
+
+
+### Questions to the audience
+
+- Is there a need for more intermediate/advanced Carpentries-style material for
+  learners who have completed a basic Carpentries training?
+- What topics/courses are needed?
+
+*Please answer via HackMD*
 
 ---
 
@@ -62,7 +100,7 @@ class: center, middle, inverse
   value.
 
 
-### Question to the audience
+### Questions to the audience
 
 - How can large be more inclusive?  How is it less?
 - What technical obstacles does it have?
