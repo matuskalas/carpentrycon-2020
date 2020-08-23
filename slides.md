@@ -2,7 +2,7 @@ class: center, middle, inverse
 
 # How to scale up your online workshop to reach 100 learners?
 
-## Naoe Tatara, Radovan Bast, Richard Darst, Anne Fouilloux, Petri Jehkonen, Matúš Kalaš, Samantha Wittke
+### Naoe Tatara, Radovan Bast, Richard Darst, Anne Fouilloux, Petri Jehkonen, Matúš Kalaš, Samantha Wittke
 
 ---
 
@@ -83,7 +83,6 @@ class: center, middle, inverse
 class: center, middle, inverse
 
 # How we did it
-
 
 ### Lectures & code-along exercises in the main room
 
