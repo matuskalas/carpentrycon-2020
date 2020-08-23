@@ -268,7 +268,7 @@ class: center, middle, inverse
 
 ### Who am I?
 
-<img src="img/mega-cr-instructor.png" width="60%" />
+<img src="img/mega-cr-instructor.png" width="40%" />
 
 ### How was it to teach Mega-CR online?
 
