@@ -13,11 +13,11 @@ class: center, middle, inverse
  - Questions about the contents -> HackMD
  - Questions about technical stuff -> Zoom Chat
 - Contents
- - What is CodeRefinery?
- - A vision of reaching many people at once (with BR session)
- - How we did it
- - Role presentation
- - Open discussion
+ - What is CodeRefinery? (5 minutes)
+ - A vision of reaching many people at once (with BR session; 15 minutes)
+ - How we did it (20 minutes)
+ - Role presentation (20 minutes)
+ - Future outlook and discussion (10 minutes)
 
 ---
 
