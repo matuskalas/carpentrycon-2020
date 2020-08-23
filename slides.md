@@ -191,7 +191,7 @@ class: center, middle, inverse
 
 ## Distribution of roles
 
-(will use an illustrative figure here)
+<img src="img/role_distribution.png" alt="distribution of roles" width="100%" />
 
 ---
 
