@@ -227,9 +227,16 @@ class: center, middle, inverse
 
 ## Learner/helper on a team
 
-[SW drafts this, 2 minutes]
+![swi](img/samantha.jpg)
 
-- ...
+&nbsp;
+
+- **helper in team** from Finnish Geospatial Research Institute
+- myself: in-person workshop **learner one year ago** 
+- **lower barrier** to interact/ask questions
+- explaining topics **work-related**
+- **easy to get lost** in course-unrelated topics
+
 
 ---
 
