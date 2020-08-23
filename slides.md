@@ -297,9 +297,15 @@ class: center, middle, inverse
 
 ## Expert helper
 
-[RB drafts this, 2 minutes]
+<img src="img/radovan-bast.jpg" alt="Radovan Bast" width="20%" />
 
-- ...
+- Expert helper knows the material well
+- Cycles through breakout rooms to see how it is going
+  - Ensure helpers are doing OK
+  - Encourage discussion
+  - Encourage learners to share screen in breakout rooms
+  - Provide advice when needed
+- Helper can call other helpers via HackMD/chat
 
 ---
 
