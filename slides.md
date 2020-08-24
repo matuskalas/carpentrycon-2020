@@ -321,7 +321,7 @@ class: center, middle, inverse
 
 ## Expert helper
 
-<img src="img/radovan-bast.jpg" alt="Radovan Bast" width="20%" />
+![swi](img/radovan-bast.jpg "Radovan Bast")
 
 - Expert helper knows the material well
 - Cycles through breakout rooms to see how it is going
