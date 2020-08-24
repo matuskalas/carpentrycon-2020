@@ -191,13 +191,18 @@ One week before the workshop:
 
 ### Hierarchical helpers
 
+.left-column[
 - Helpers
   - They don't have to know "everything"
   - They can call in other helpers
 - Expert helpers (more about this role later)
   - They support helpers
-  - They cycle between breakout rooms
+  - They cycle between breakout rooms]
+  
+.right-column[
+<img src="img/CC_hierarchical_helpers_illustration.png" alt="Expert helpers cycle between breakout rooms while helpers are assigned to one specific breakout room" style="width:100%">
 
+]
 ---
 
 ## Required preparation, install times
@@ -320,7 +325,7 @@ class: center, middle, inverse
 
 ## Expert helper
 
-<img src="img/radovan-bast.jpg" alt="Radovan Bast" width="20%" />
+![swi](img/radovan-bast.jpg "Radovan Bast")
 
 - Expert helper knows the material well
 - Cycles through breakout rooms to see how it is going
@@ -350,20 +355,15 @@ class: center, middle, inverse
 
 ## Host
 <!-- Naoe -->
-- Role: dedicated for Zoom room management.
-- Tasks:
-	- Zoom-participant control (entry approval and co-host assignment)
-	- Communication with participants (mainly via Zoom chat for practical things)
-	- Breakout room management
-- Recommendations:
-	- Ask participants to; 
-		- present resistered name upon entry 
-		- join in early and 
-		- rename to (team number / team number, H / CR)[first, last name] 
-	- Keep consistency with team combination as much as possible throughout the workshop
-	- If a helper of a team is absent, 2 (or 3 ) teams are merged into 1 room
-	- Make sure to stop video before returning to the main room
-	- Disable waiting room during the breakout room session
+![swi](img/naoe_tatara.jpg "Naoe Tatara")
+- Dedicated for Zoom room management.
+	- Zoom-participant control <!-- entry approval and co-host assignment -->
+	- Communication with participants <!-- mainly via Zoom chat for practical things -->
+	- Breakout room management <!-- assignment, timing, disabling/enabling waiting room -->
+	- Recording and making sure streaming goes fine 
+- Keep consistency with team combination throughout the workshop
+- If a helper of a team is absent, 2 (or 3 ) teams are merged into 1 room
+- Important to pay attention to multiple communication channel
 
 ---
 
