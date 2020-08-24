@@ -197,6 +197,7 @@ One week before the workshop:
 - Expert helpers (more about this role later)
   - They support helpers
   - They cycle between breakout rooms
+  ![Expert helpers cycle between breakout rooms while helpers are assigned to one specific breakout room](img/CC_hierarchical_helpers_illustration.png)
 
 ---
 
