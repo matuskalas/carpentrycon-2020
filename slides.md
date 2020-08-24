@@ -359,7 +359,7 @@ class: center, middle, inverse
 	- Ask participants to; 
 		- present resistered name upon entry 
 		- join in early and 
- 		- rename to (team number / team number, H / CR)[first, last name] 
+		- rename to (team number / team number, H / CR)[first, last name] 
 	- Keep consistency with team combination as much as possible throughout the workshop
 	- If a helper of a team is absent, 2 (or 3 ) teams are merged into 1 room
 	- Make sure to stop video before returning to the main room
