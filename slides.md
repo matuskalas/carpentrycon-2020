@@ -9,6 +9,7 @@ class: center, middle, inverse
 ---
 
 ## Introduction to the session
+<!-- Naoe -->
 
 - Carpentries Code of Conduct
 - House keeping
@@ -135,7 +136,7 @@ class: center, middle, inverse
 ---
 
 ## Lectures & code-along exercises in the main room
-
+<!-- Anne -->
 - Short lectures to explain a concept and "asynchronous Q&A" in main room
 - Demonstrate it on a very short example (and often repeat explanation)
 - Exercises more in the breakout rooms among groups
@@ -201,7 +202,7 @@ One week before the workshop:
 
 ## Required preparation, install times
 
-[RD drafts this, 2 minutes]
+<!-- RD drafts this, 2 minutes -->
 
 - With 100 people, there is very little tolerance for technical
   problems.
@@ -211,31 +212,47 @@ One week before the workshop:
 - In the verification time, we would pair learners with helpers and
   have them test git and Python (not just install, but settings).
 - Verification times also let us practice with the tech with helpers in advance.
+<!-- refer notes https://hackmd.io/xuIr733fROuIpwQ1g2mkOw?view "install verification time" -->
 
 ---
 
 ## Collaborative notes
-
+<!-- Naoe -->
 - Use of HackMD for collection of Q&A regarding lesson contents
 <ul style="list-style-type:' \002B \0020 \0020'">
-  <li> It keeps record of Q&A so that it is possible to review afterwards.</li>
-  <li> Main flow is not disrupted.</li>
+  <li> Instructor -> Learners AND Learners -> Instructors
+  <li> A dedicated person answered to questions raised in HackMD (HackMD specialist).
+  <li> Cleaned and published copy was useful to helpers and learnes afterwards.</li>
+  <li> Time schedule can be kept as we can’t possibly answer questions from 100 people in main room.</li>
   <li> Stable most of the time with 50-100 users (depending on the edit history length).</li>
 </ul>
-
+<ul style="list-style-type:' \0021 \0020 \0020'">
+  <li> Need to be careful to not overload the side channel with answers
+</ul>
 - For short communications for more practical questions, we used Zoom chat function.
 
 ---
 
 ## Distribution of roles
 
-<img src="img/role_distribution.png" alt="distribution of roles" width="100%" />
+<img src="img/role_distribution.png" alt="a schematic illustration to show flexible assignment of roles of instructor and expert helper" width="100%" />
+
+---
+
+## Zoom room use for pre- and post-session
+
+<!-- Naoe? -->
+- We opened the Zoom room 30 minutes before the scheduled session start.
+- After the scheduled session is over, we kept the Zoom room open for;
+	- Debriefing among helpers and instructors,
+	- Individual help by helper or expert helper,
+	- Continuation of exercise by a team
 
 ---
 
 ## Streaming and recording
 
-[RD drafts this, 2 minutes]
+<!-- RD drafts this, 2 minutes -->
 
 - If we have 100 people, interaction shifts to breakout rooms.  Why
   can't more watch the lecture?
@@ -332,24 +349,21 @@ class: center, middle, inverse
 ---
 
 ## Host
-
-Host is dedicated for Zoom room management.
-- Zoom-participant controll
-  - Assigning co-host priviledge to instructors and expert helpers.
-  - Permission of participants' entrance into the meeting room by referring to the registration list.
-  <ul style="list-style-type:' \0021 \0020 \0020'">
-    <li> Join in early </li>
-    <li> Present registered name </li>
-    <li> Rename to (team number / team number, H / CR)[first, last name] </li>
-  </ul>
-- Communication with participants (mainly via Zoom chat for practical things)
-- Assigning participants to breakout rooms
-<ul style="list-style-type:' \0021 \0020 \0020'">
-  <li> If a helper of a team is absent, 2 (or 3 ) teams are merged into 1 room </li>
-  <li> Keep consistency with team combination as much as possible throughout the workshop </li>
-  <li> Make sure to stop video before returning to the main room </li>
-  <li> Disable waiting room during the breakout room session </li>
-</ul>
+<!-- Naoe -->
+- Role: dedicated for Zoom room management.
+- Tasks:
+	- Zoom-participant controll (entry approval and co-host assignment)
+	- Communication with participants (mainly via Zoom chat for practical things)
+	- Assigning participants to breakout rooms
+- Reccomendations:
+	- Ask participants to; 
+		- present resistered name upon entry 
+		- join in early and 
+ 		- rename to (team number / team number, H / CR)[first, last name] 
+	- Keep consistency with team combination as much as possible throughout the workshop
+	- If a helper of a team is absent, 2 (or 3 ) teams are merged into 1 room
+	- Make sure to stop video before returning to the main room
+	- Disable waiting room during the breakout room session
 
 ---
 
