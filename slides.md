@@ -357,11 +357,11 @@ class: center, middle, inverse
 <!-- Naoe -->
 ![swi](img/naoe_tatara.jpg "Naoe Tatara")
 - Dedicated for Zoom room management.
-	- Zoom-participant control (entry approval and co-host assignment)
-	- Communication with participants (mainly via Zoom chat for practical things)
-	- Breakout room management (assignment, timing, disabling/enabling waiting room)
-	- Recording and making sure streaming goes fine
-- Keep consistency with team combination as much as possible throughout the workshop
+	- Zoom-participant control <!-- entry approval and co-host assignment -->
+	- Communication with participants <!-- mainly via Zoom chat for practical things -->
+	- Breakout room management <!-- assignment, timing, disabling/enabling waiting room -->
+	- Recording and making sure streaming goes fine 
+- Keep consistency with team combination throughout the workshop
 - If a helper of a team is absent, 2 (or 3 ) teams are merged into 1 room
 - Important to pay attention to multiple communication channel
 
