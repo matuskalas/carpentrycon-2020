@@ -222,8 +222,8 @@ One week before the workshop:
 <ul style="list-style-type:' \002B \0020 \0020'">
   <li> Instructor -> Learners AND Learners -> Instructors
   <li> A dedicated person answered to questions raised in HackMD (HackMD specialist).
+  <li> Time schedule can be kept as an instructor can focus on the lecture and live coding.</li>
   <li> Cleaned and published copy was useful to helpers and learnes afterwards.</li>
-  <li> Time schedule can be kept as we can’t possibly answer questions from 100 people in main room.</li>
   <li> Stable most of the time with 50-100 users (depending on the edit history length).</li>
 </ul>
 <ul style="list-style-type:' \0021 \0020 \0020'">
@@ -352,10 +352,10 @@ class: center, middle, inverse
 <!-- Naoe -->
 - Role: dedicated for Zoom room management.
 - Tasks:
-	- Zoom-participant controll (entry approval and co-host assignment)
+	- Zoom-participant control (entry approval and co-host assignment)
 	- Communication with participants (mainly via Zoom chat for practical things)
-	- Assigning participants to breakout rooms
-- Reccomendations:
+	- Breakout room management
+- Recommendations:
 	- Ask participants to; 
 		- present resistered name upon entry 
 		- join in early and 
