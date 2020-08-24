@@ -355,20 +355,15 @@ class: center, middle, inverse
 
 ## Host
 <!-- Naoe -->
-- Role: dedicated for Zoom room management.
-- Tasks:
+![swi](img/naoe_tatara.jpg "Naoe Tatara")
+- Dedicated for Zoom room management.
 	- Zoom-participant control (entry approval and co-host assignment)
 	- Communication with participants (mainly via Zoom chat for practical things)
-	- Breakout room management
-- Recommendations:
-	- Ask participants to; 
-		- present resistered name upon entry 
-		- join in early and 
-		- rename to (team number / team number, H / CR)[first, last name] 
-	- Keep consistency with team combination as much as possible throughout the workshop
-	- If a helper of a team is absent, 2 (or 3 ) teams are merged into 1 room
-	- Make sure to stop video before returning to the main room
-	- Disable waiting room during the breakout room session
+	- Breakout room management (assignment, timing, disabling/enabling waiting room)
+	- Recording and making sure streaming goes fine
+- Keep consistency with team combination as much as possible throughout the workshop
+- If a helper of a team is absent, 2 (or 3 ) teams are merged into 1 room
+- Important to pay attention to multiple communication channel
 
 ---
 
