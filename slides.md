@@ -202,7 +202,8 @@ One week before the workshop:
   
 .right-column[
 
-  ![Expert helpers cycle between breakout rooms while helpers are assigned to one specific breakout room](img/CC_hierarchical_helpers_illustration.png)
+<img src="img/CC_hierarchical_helpers_illustration.png" alt="Expert helpers cycle between breakout rooms while helpers are assigned to one specific breakout room" style="width:50%">
+
 ]
 ---
 
