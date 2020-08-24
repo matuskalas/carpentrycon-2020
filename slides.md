@@ -192,7 +192,6 @@ One week before the workshop:
 ### Hierarchical helpers
 
 .left-column[
-
 - Helpers
   - They don't have to know "everything"
   - They can call in other helpers
@@ -201,7 +200,6 @@ One week before the workshop:
   - They cycle between breakout rooms]
   
 .right-column[
-
 <img src="img/CC_hierarchical_helpers_illustration.png" alt="Expert helpers cycle between breakout rooms while helpers are assigned to one specific breakout room" style="width:100%">
 
 ]
