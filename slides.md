@@ -191,19 +191,19 @@ One week before the workshop:
 
 ### Hierarchical helpers
 
-class: left-column
+.left-column[
 
 - Helpers
   - They don't have to know "everything"
   - They can call in other helpers
 - Expert helpers (more about this role later)
   - They support helpers
-  - They cycle between breakout rooms
+  - They cycle between breakout rooms]
   
-class: right-column
+.right-column[
 
   ![Expert helpers cycle between breakout rooms while helpers are assigned to one specific breakout room](img/CC_hierarchical_helpers_illustration.png)
-
+]
 ---
 
 ## Required preparation, install times
