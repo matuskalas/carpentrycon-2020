@@ -202,7 +202,7 @@ One week before the workshop:
   
 .right-column[
 
-<img src="img/CC_hierarchical_helpers_illustration.png" alt="Expert helpers cycle between breakout rooms while helpers are assigned to one specific breakout room" style="width:50%">
+<img src="img/CC_hierarchical_helpers_illustration.png" alt="Expert helpers cycle between breakout rooms while helpers are assigned to one specific breakout room" style="width:100%">
 
 ]
 ---
