@@ -18,6 +18,10 @@ li {
   line-height: 1.5;
 }
 
+small {
+  color: #909090;
+}
+
 .inverse {
   background: #272822;
   color: #777872;
